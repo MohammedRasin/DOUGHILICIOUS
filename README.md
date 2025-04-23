@@ -1,2 +1,8 @@
-# DOUGHILICIOUS
-This is a full-stack dessert shop web application built using the MERN stack. Users can explore a variety of dessert categories, view flavored items, add them to the cart, and place orders. Admins have access to a secure dashboard to manage items and categories.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
